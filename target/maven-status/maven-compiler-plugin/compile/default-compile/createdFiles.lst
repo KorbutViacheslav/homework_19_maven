@@ -1,0 +1,7 @@
+org\example\arithmetic\Subtraction.class
+org\example\logger\LoggingLevel.class
+org\example\Main.class
+org\example\arithmetic\Multiplication.class
+org\example\logger\FileLoggerConfiguration.class
+org\example\logger\FileLogger.class
+org\example\arithmetic\Addition.class
